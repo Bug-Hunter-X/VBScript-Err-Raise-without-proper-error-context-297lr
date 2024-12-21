@@ -1,0 +1,1 @@
+This repository demonstrates a common VBScript error related to the use of Err.Raise. The bug.vbs file shows the incorrect usage, leading to a general error message without sufficient detail. The bugSolution.vbs file provides a corrected approach.
